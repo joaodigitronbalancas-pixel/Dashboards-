@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise BI & Analytics Platform",
+  "description": "Enterprise-grade SaaS for Business Intelligence, interactive analytics dashboards, and AI-powered data insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
